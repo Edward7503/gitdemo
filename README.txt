@@ -1,0 +1,1 @@
+GIT3 > GIT ADD <FILE> test
